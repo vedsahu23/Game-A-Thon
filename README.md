@@ -1,6 +1,5 @@
-# Game-A-Thon
 <h1 align="center">
-Practice-Programs
+Game-A-Thon
 </h1>
 
 **Language Used:- C**
